@@ -40,7 +40,7 @@ A modern, real-time todo application built with Next.js, TypeScript, Tailwind CS
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/IanBenji/todo>
 cd todo-app
 ```
 
